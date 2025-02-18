@@ -32,10 +32,8 @@ nav a {
 
 main {
   display: flex;
-  /* Використання Flexbox для розташування */
   margin: 1rem;
   flex: 1;
-  flex-direction: column;
   min-height: 100vh;
 }
 
